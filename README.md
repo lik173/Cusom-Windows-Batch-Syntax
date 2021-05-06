@@ -24,5 +24,6 @@ It just replaces commands in file on Windows commands
 > @username - User  
 > @wait - timeout /nobreak /t (@wait 10 - timeout /nobreak /t 10)  
 > @kill - taskkill /e /im (@kill notepad.exe - taskkill /e /im notepad.exe)  
+> @jmp - goto (@jmp void - goto void)
 # End of README
 Good bye!
