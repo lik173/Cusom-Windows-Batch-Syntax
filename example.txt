@@ -1,0 +1,17 @@
+#this file is a target
+@off
+@head Title
+@## Text in comment
+@_main
+@say Hello, World!
+@input text=Text: 
+@run
+@get-date
+@get-time
+@say @arch
+@say @userprofile
+@say @username
+@_next
+@stop
+@wait 10
+@halt
