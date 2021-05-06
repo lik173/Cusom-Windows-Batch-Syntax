@@ -2,7 +2,7 @@
 Custom syntax for .bat and .cmd files
 It just replaces commands in file on Windows commands
 # Need to run:
-> Powershell (Tested on Windows 10 20H2 x32 and x64)
+> Powershell (Tested on Windows 10 20H2 x32 and x64)  
 > Above than 8192 bytes free space
 # Commands
 > this file is a target - Set file as target to compile (must be at 1st line)  
