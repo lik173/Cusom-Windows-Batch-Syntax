@@ -5,7 +5,7 @@ It just replaces commands in file on Windows commands
 > Powershell (Tested on Windows 10 20H2 x32 and x64)  
 > Above than 8192 bytes free space
 # Commands
-> this file is a target - Set file as target to compile (must be at 1st line)  
+> #this file is a target - Set file as target to compile (must be at 1st line)  
 > @off - @echo off  
 > @head - title  
 > @## - Commented text like 'rem' command  
